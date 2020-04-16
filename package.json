@@ -1,13 +1,13 @@
 {
   "name": "simple-api",
   "version": "1.0.0",
-  "description": "Simple api on node.js",
+  "description": "Simple API on node.js",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "author": "isiiunab",
-  "license": "MIT License",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.16.4"
   }
